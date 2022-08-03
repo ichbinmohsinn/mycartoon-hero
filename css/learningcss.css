@@ -1,0 +1,19 @@
+h1 {
+  font-size: 40px;
+  background-color: salmon;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 60px;
+  color: slateblue;
+}
+
+.box {
+  font-size: 18px;
+  color: blue;
+}
+
+.italic {
+  font-style: oblique;
+}
