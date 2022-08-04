@@ -1,0 +1,79 @@
+body {
+  margin: 0px;
+}
+
+header h1 {
+  font-size: 60px;
+  font-weight: 800px;
+}
+
+header {
+  background-color: yellow;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+header img {
+  border-radius: 170px;
+  width: 300px;
+  border: 20px solid tomato;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+main h2 {
+  border-bottom: 2px dashed black;
+  font-size: 45px;
+}
+
+button {
+  border: 2px solid black;
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+}
+
+button:hover {
+  background-color: tomato;
+}
+
+h1,
+h2 {
+  font-family: "Mouse Memoirs", sans-serif;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+ol,
+ul {
+  font-size: 20px;
+}
+
+a {
+  color: tomato;
+}
+
+a:hover {
+  color: black;
+  background-color: yellow;
+}
+
+footer {
+  background-color: yellow;
+  text-align: center;
+  padding: 15px;
+}
+
+p.caption {
+  color: #999999;
+  font-style: italic;
+  margin-top: 0px;
+}
